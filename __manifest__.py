@@ -1,5 +1,6 @@
 {
     'name': 'Migration helper',
+    'version': '17.0.1',
     'author':  'NTSW',
     'category': 'Sales',
     'sequence': 14,
